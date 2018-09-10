@@ -1,2 +1,0 @@
-# krishna
-new repo
